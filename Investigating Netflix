@@ -1,5 +1,9 @@
-Question:
-What may be contributing to movies getting shorter over time? (Netflix Case)
+Executive Summary:
+This analysis delves into the trend of movie durations over time, with a focus on Netflix's movie database, to see if movies are indeed getting shorter. The results, visualized through a scatter plot, reveal no clear trend of decreasing movie lengths over the years. While shorter movies (under 60 minutes) do exist, they are not predominant in the dataset. This suggests that despite the presence of brief films, there isn't a significant shift towards shorter movie durations overall.
+
+
+Objective
+Identify What may be contributing to movies getting shorter over time. (Netflix Case)
 
 The Code:
 # Importing pandas and matplotlib
